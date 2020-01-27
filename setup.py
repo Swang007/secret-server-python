@@ -10,7 +10,7 @@ setuptools.setup(
     description="Thycotic python client that uses the Thycotic SDK to get secrets from secret server",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/thycotic/secret-server-python",
+    url="https://github.com/Swang007/secret-server-python",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
