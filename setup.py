@@ -1,7 +1,6 @@
 import setuptools
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
+long_description = "None"
 
 setuptools.setup(
     name="secret-server-sdk-client",
